@@ -1,1 +1,1 @@
-# sample-leave-pass
+# SIMPLE-LEAVE-PASS
